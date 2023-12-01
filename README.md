@@ -11,3 +11,4 @@ Username: admin
 Password: 1234
 Then import the SQL file
 
+Access the screenshots folder to view some screenshots of the project.
